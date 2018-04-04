@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_4d8f27cce7cc088293c288ce47f65c2e5d0afe40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_51a923e68bab833f0f79e73ef1a8119e96d937c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_e0e25e45a0030f246843c0a9c9a11972e6886cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_3d4a0b8c0f8e4dfbf0214d30d63801e054fad49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_c68e394c6cd93b8beb8676356c934fb6f8a58f76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-11.0.4_bfa6c086c32901ea73379502cdb68733cc9b6b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_116605be1d595a21c8e558ce5e271676cd45eda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_7852395d13dc90a4a7b3e12847c24efb575ed229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_093b3e2fca385691fe20d95a51ae68b1f78645b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_69e9c4898900efbc87c5b48cf9d91d07d7bb41dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_baa559129d69c131cffd895b7cdbac4fc3c22af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_f6bbe3300f1dda73a66d1d62fa0c9acf7b27041c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_306cdcba5142ab1adb0e7d50e5738b658f1722ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_6b8c3fb4ef859a25828ca343cb4dc649a289a1b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_46755ac85ec619d5786f6ef8a7a727bce4f500fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ba3bfc0303bb170052301f3e76d863cdf9a6ca94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_d3c57edc74e29df87363a97386020fa0bb95047c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_28e0060a2f579a324a5cb3a76a9d0992318b3419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_da456a66f7d5badfa235cb4e4c803ac23894cd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_37aab7ef3ac711d888593bf26881913a4d71d40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_b840adb5513b14c8775c0261525f88a4cb4dbb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\OneSignalExample\react-native-onesignal\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a1050830bf9ebbce2bda9ef4228d2f7aef47e69b">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\OneSignalExample-react-native-onesignal-unspecified_95c38d2d0f8ff66cf4a1774334ec7eb8ddbbf0c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\3.8.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf6612d60ed35a3c41a708b94f83ec376c955382">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.onesignal-OneSignal-3.8.3_df48b6db67a6fa5e153a21c31dfa504ba506bb95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_76640633c6af306029737ca665734fc8d1577f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_f285e11c7a944bad830af05b0cc2a70e28655b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_3f657fbee3e2c1166020659fc01c615f27111c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d35800be23c54560ebfb0707013d8860c83a5958">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.0_9ccd9e6d96a41757b923ce0e82a5754ff3669884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c849bb1436c5828ea1b090b959f3c7468b93a267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\facop\Desktop\oneSignal\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_be5163d8711d3a023b41948f6eb6d625160a2d30.jar" />
+    </item>
+
+</items>
