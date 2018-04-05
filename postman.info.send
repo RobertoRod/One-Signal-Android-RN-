@@ -1,0 +1,16 @@
+POST URL : https://onesignal.com/api/v1/notifications
+
+Headers;
+Content-Type    application/json
+
+Authorization   Basic CLAVE DE API REST
+
+Json/Text
+{
+  "app_id": "Id Aplication",
+  "filters": [
+  	 {"field": "email", "value": "testemail@outlook.com"}
+  ],
+  "data": {"foo": "bar"},
+  "contents": {"en": "English Message","es":"Mensaje en español"}
+}
